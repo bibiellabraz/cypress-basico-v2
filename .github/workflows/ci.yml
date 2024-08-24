@@ -1,5 +1,3 @@
-//estamos criando um pipeline de integração contínua
-//onde o nome do nosso pipeline é End-to-end tests, testes de ponta a ponta
 name: End-to-end tests 🧪
 on: [push]
 jobs:
