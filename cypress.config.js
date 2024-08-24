@@ -14,3 +14,7 @@ module.exports = defineConfig({
   "viewportWidth"; 1280
 }
 
+"scripts"; {
+  "cypress:open"; "cypress open --config-file=cypress.config.js",
+  "cypress:run"; "cypress run --config-file=cypress.config.js"
+}
